@@ -23,3 +23,4 @@ Journaling my daily progress.
 - Learnt some commonly used string methods.
 - Learnt to reverse a string using string slicing.
 - Made a password checker that hides the characters of the password using asterisks.
+- Studied about lists, list methods and list unpacking.
