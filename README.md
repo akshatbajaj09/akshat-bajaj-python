@@ -24,3 +24,9 @@ Journaling my daily progress.
 - Learnt to reverse a string using string slicing.
 - Made a password checker that hides the characters of the password using asterisks.
 - Studied about lists, list methods and list unpacking.
+
+## Day 5
+
+- Learnt about dictionaries and dictionary methods.
+- Learnt about tuples, tuple methods, tuple slicing and tuple unpacking.
+- Learnt about sets and their methods.
