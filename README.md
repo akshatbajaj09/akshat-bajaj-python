@@ -30,3 +30,11 @@ Journaling my daily progress.
 - Learnt about dictionaries and dictionary methods.
 - Learnt about tuples, tuple methods, tuple slicing and tuple unpacking.
 - Learnt about sets and their methods.
+
+## Day 6
+
+- Learnt about controlling the flow of a program.
+- Learnt the if, elif and else statements.
+- Learnt about logical operators ('and', 'or' and 'not').
+- Learnt about the difference between a == b and a is b.
+- Made some programs for practicing.
