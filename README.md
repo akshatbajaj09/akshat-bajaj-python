@@ -38,3 +38,10 @@ Journaling my daily progress.
 - Learnt about logical operators ('and', 'or' and 'not').
 - Learnt about the difference between a == b and a is b.
 - Made some programs for practicing.
+
+## Day 7
+
+- Learnt about loops.
+- Accessed elements of a list, tuple and set via loops.
+- Accessed keys, values and key-value pairs of a dictionary via looping.
+- Did some practice exercises on loops.
