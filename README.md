@@ -49,3 +49,7 @@ Journaling my daily progress.
 ## Day 8
 
 - Learnt about functions.
+- Learnt about the difference between a parameter and an argument.
+- Learnt new terms like default parameters, positional arguments and keyword arguments.
+- Learnt the basic rule to define a function.
+- Practiced with some exercises.
