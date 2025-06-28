@@ -45,3 +45,7 @@ Journaling my daily progress.
 - Accessed elements of a list, tuple and set via loops.
 - Accessed keys, values and key-value pairs of a dictionary via looping.
 - Did some practice exercises on loops.
+
+## Day 8
+
+- Learnt about functions.
