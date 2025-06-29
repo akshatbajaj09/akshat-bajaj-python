@@ -53,3 +53,11 @@ Journaling my daily progress.
 - Learnt new terms like default parameters, positional arguments and keyword arguments.
 - Learnt the basic rule to define a function.
 - Practiced with some exercises.
+
+## Day 9
+
+- Explored working on the terminal.
+- Saw different types of code editors like Sublime Text and VS code.
+- Explored IDEs like PyCharm.
+- Explored Anaconda, Miniconda and Jupyter notebooks.
+- This was an exploration-focused day, no coding exercises were done, hence no Day9 folder.
