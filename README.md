@@ -61,3 +61,11 @@ Journaling my daily progress.
 - Explored IDEs like PyCharm.
 - Explored Anaconda, Miniconda and Jupyter notebooks.
 - This was an exploration-focused day, no coding exercises were done, hence no Day9 folder.
+
+## Day 10
+
+- Learnt a new operator: Walrus operator.
+- Learnt about the scope of functions and the LEGB (Local, Enclosed, Global and Built-ins) rule.
+- Learnt new keywords like global and nonlocal.
+- Learnt a new idea of Dependency Injection and how it is better than using global and nonlocal keywords.
+- Also understood that why do we need scope?
