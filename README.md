@@ -69,3 +69,10 @@ Journaling my daily progress.
 - Learnt new keywords like global and nonlocal.
 - Learnt a new idea of Dependency Injection and how it is better than using global and nonlocal keywords.
 - Also understood that why do we need scope?
+
+## Day 11
+
+- Started with Object Oriented Programming (OOP).
+- Understood the need for OOP.
+- Learnt about terminologies like: classes, objects, instances and instantiating.
+- Learnt some basics like class variables and instance variables.
