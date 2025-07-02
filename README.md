@@ -76,3 +76,12 @@ Journaling my daily progress.
 - Understood the need for OOP.
 - Learnt about terminologies like: classes, objects, instances and instantiating.
 - Learnt some basics like class variables and instance variables.
+
+## Day 12
+
+- Practiced on the basics of OOP.
+- Learnt two new methods named @classmethod and @staticmethod and how they differ from each other.
+- Learnt an overview of terms like Private, Public and Protected variables and the idea of Getters and Setters.
+- Practiced by making a StudentRecordSystem for a school.
+- Learnt the concept of encapsulation, private and public variables.
+- Explored the idea of name mangling, a practice helpful to access private variables but isn't recommended (breaks encapsulation).
