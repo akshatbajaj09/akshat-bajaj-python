@@ -85,3 +85,9 @@ Journaling my daily progress.
 - Practiced by making a StudentRecordSystem for a school.
 - Learnt the concept of encapsulation, private and public variables.
 - Explored the idea of name mangling, a practice helpful to access private variables but isn't recommended (breaks encapsulation).
+
+## Day 13
+
+- Studied Abstraction.
+- Cleared the confusion between encapsulation and abstraction.
+- Saw the concept of abstract classes and @abstractmethod.
