@@ -91,3 +91,8 @@ Journaling my daily progress.
 - Studied Abstraction.
 - Cleared the confusion between encapsulation and abstraction.
 - Saw the concept of abstract classes and @abstractmethod.
+
+## Day 14
+
+- Studied Inheritance and different types of Inheritance.
+- Studied about Polymorphism and its two forms.
