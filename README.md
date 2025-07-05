@@ -96,3 +96,9 @@ Journaling my daily progress.
 
 - Studied Inheritance and different types of Inheritance.
 - Studied about Polymorphism and its two forms.
+
+## Day 15
+
+- Learnt about the super() method.
+- Learnt Object Introspection.
+- Learnt about Dunder methods.
