@@ -102,3 +102,11 @@ Journaling my daily progress.
 - Learnt about the super() method.
 - Learnt Object Introspection.
 - Learnt about Dunder methods.
+
+## Day 16
+
+- Learnt about some more Dunder methods.
+- Explored the idea of iterator and iterable using the iter() and the next() function.
+- Did an exercise to infuse the custom methods we define using classes and the
+  built-ins for a list.
+- Learnt about Method Resolution Order (MRO).
