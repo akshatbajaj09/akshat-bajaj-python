@@ -110,3 +110,7 @@ Journaling my daily progress.
 - Did an exercise to infuse the custom methods we define using classes and the
   built-ins for a list.
 - Learnt about Method Resolution Order (MRO).
+
+## Day 17
+
+- This was a revision focused day and no new code was written, hence no seperate file of Day17.
