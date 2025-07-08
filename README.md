@@ -114,3 +114,7 @@ Journaling my daily progress.
 ## Day 17
 
 - This was a revision focused day and no new code was written, hence no seperate file of Day17.
+
+## Day 18
+
+- Another day dedicated to revision only and hence no seperate file of Day18 too.
