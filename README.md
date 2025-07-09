@@ -118,3 +118,8 @@ Journaling my daily progress.
 ## Day 18
 
 - Another day dedicated to revision only and hence no seperate file of Day18 too.
+
+## Day 19
+
+- Started with functional programming and learnt about its benefits.
+- Learnt about pure functions.
