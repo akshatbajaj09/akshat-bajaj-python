@@ -123,3 +123,7 @@ Journaling my daily progress.
 
 - Started with functional programming and learnt about its benefits.
 - Learnt about pure functions.
+
+## Day 20
+
+- Learnt about map(), filter() and zip() functions.
