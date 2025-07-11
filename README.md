@@ -127,3 +127,12 @@ Journaling my daily progress.
 ## Day 20
 
 - Learnt about map(), filter() and zip() functions.
+
+## Day 21
+
+- Learnt about reduce() function and how it differs from map(), filter() and
+  zip() in terms of output.
+- Studied the concept of lambda expressions.
+- Studied the concept of key= and reverse = True/False in sorting.
+- Studied list, set and dictionary comprehensions.
+- Understood the trade-offs of how comprehensions make code concise but decreases readability.
