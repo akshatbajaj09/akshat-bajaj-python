@@ -136,3 +136,10 @@ Journaling my daily progress.
 - Studied the concept of key= and reverse = True/False in sorting.
 - Studied list, set and dictionary comprehensions.
 - Understood the trade-offs of how comprehensions make code concise but decreases readability.
+
+## Day 22
+
+- Did an exercise to solidify my understanding of comprehensions.
+- Learnt about decorators and also made one.
+- Learnt about different types of errors in Python.
+- Studied how to handle these errors.
