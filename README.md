@@ -143,3 +143,7 @@ Journaling my daily progress.
 - Learnt about decorators and also made one.
 - Learnt about different types of errors in Python.
 - Studied how to handle these errors.
+
+## Day 23
+
+- Learnt about two new functions: any() and all().
