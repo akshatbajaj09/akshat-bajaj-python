@@ -147,3 +147,7 @@ Journaling my daily progress.
 ## Day 23
 
 - Learnt about two new functions: any() and all().
+
+## Day 24
+
+- Studied about Generators and Context Managers.
