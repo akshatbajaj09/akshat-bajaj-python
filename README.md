@@ -151,3 +151,9 @@ Journaling my daily progress.
 ## Day 24
 
 - Studied about Generators and Context Managers.
+
+## Day 25
+
+- Started DSA.
+- Will cover remaining topics like Modules etc. as and when required.
+- Till then, daily progress will be tracked in the DSA repo.
